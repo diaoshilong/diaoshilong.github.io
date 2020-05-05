@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://18c042.coding-pages.com</id>
     <title>我的思维模型</title>
-    <updated>2020-05-05T07:42:06.089Z</updated>
+    <updated>2020-05-05T07:53:55.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://18c042.coding-pages.com"/>
     <link rel="self" href="http://18c042.coding-pages.com/atom.xml"/>
@@ -11,16 +11,14 @@
     <icon>http://18c042.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的思维模型</rights>
     <entry>
-        <title type="html"><![CDATA[什么是城市规划的逻辑？]]></title>
-        <id>http://18c042.coding-pages.com/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/</id>
-        <link href="http://18c042.coding-pages.com/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/">
+        <title type="html"><![CDATA[写给城市规划毕业生的建议]]></title>
+        <id>http://18c042.coding-pages.com/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/</id>
+        <link href="http://18c042.coding-pages.com/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/">
         </link>
-        <updated>2020-05-05T06:26:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>引言</p>
-<p>每一个做规划的人都应该有这样的体会，不管是上学的时候，工作的时候，不管是设计方案的时候，还是解说方案的时候，总有人不断的在你耳边聒噪，&quot;逻辑！逻辑！重要的是规划逻辑&quot;。而如果你头一扭，一脸茫然的问他&quot;什么是逻辑？能不能给我讲讲？&quot;，他大概会给你讲一堆&quot;逻辑就是做规划的思路，方法，这不是三言两语能说清的，没事多看书，多实践，工作中慢慢就会体会到了&quot;之类，貌似正确却又毫无用处的敷衍之词，大概就是说规划逻辑这东西只可意会不可言传。然后，当你把自己的方案或汇报文件给他，他多半又会说&quot;你这个思路不太对，逻辑不太对&quot;之类的话，然后修改，修改，修改.......</p>
+        <updated>2020-05-05T07:47:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为一个学校里五年制毕业，工作四年有余，期间跳槽三次，至今蜗居上海的规划设计师一枚，深感对这个问题还有点发言权。想到当年自己就是因为缺少过来人的指导，多少走过一些弯路，甚为遗憾。写下此文，也算是对自己有个交代，总结反思一下自己的规划历程，也能对后来人有一些启发或是帮助，余愿足矣。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>引言</p>
-<p>每一个做规划的人都应该有这样的体会，不管是上学的时候，工作的时候，不管是设计方案的时候，还是解说方案的时候，总有人不断的在你耳边聒噪，&quot;逻辑！逻辑！重要的是规划逻辑&quot;。而如果你头一扭，一脸茫然的问他&quot;什么是逻辑？能不能给我讲讲？&quot;，他大概会给你讲一堆&quot;逻辑就是做规划的思路，方法，这不是三言两语能说清的，没事多看书，多实践，工作中慢慢就会体会到了&quot;之类，貌似正确却又毫无用处的敷衍之词，大概就是说规划逻辑这东西只可意会不可言传。然后，当你把自己的方案或汇报文件给他，他多半又会说&quot;你这个思路不太对，逻辑不太对&quot;之类的话，然后修改，修改，修改.......</p>
+        <content type="html"><![CDATA[<p>作为一个学校里五年制毕业，工作四年有余，期间跳槽三次，至今蜗居上海的规划设计师一枚，深感对这个问题还有点发言权。想到当年自己就是因为缺少过来人的指导，多少走过一些弯路，甚为遗憾。写下此文，也算是对自己有个交代，总结反思一下自己的规划历程，也能对后来人有一些启发或是帮助，余愿足矣。</p>
 ]]></content>
     </entry>
 </feed>
