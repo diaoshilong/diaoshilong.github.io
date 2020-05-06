@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://github.com/diaoshilong/diaoshilong.github.io</id>
+    <id>http://diaoshilong.github.io</id>
     <title>我的思维模型</title>
-    <updated>2020-05-06T00:02:39.977Z</updated>
+    <updated>2020-05-06T00:03:53.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://github.com/diaoshilong/diaoshilong.github.io"/>
-    <link rel="self" href="http://github.com/diaoshilong/diaoshilong.github.io/atom.xml"/>
+    <link rel="alternate" href="http://diaoshilong.github.io"/>
+    <link rel="self" href="http://diaoshilong.github.io/atom.xml"/>
     <subtitle>风起于青萍之末，浪成于微澜之间。</subtitle>
-    <logo>http://github.com/diaoshilong/diaoshilong.github.io/images/avatar.png</logo>
-    <icon>http://github.com/diaoshilong/diaoshilong.github.io/favicon.ico</icon>
+    <logo>http://diaoshilong.github.io/images/avatar.png</logo>
+    <icon>http://diaoshilong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的思维模型</rights>
     <entry>
         <title type="html"><![CDATA[写给城市规划毕业生的建议]]></title>
-        <id>http://github.com/diaoshilong/diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/</id>
-        <link href="http://github.com/diaoshilong/diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/">
+        <id>http://diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/</id>
+        <link href="http://diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/">
         </link>
         <updated>2020-05-05T07:47:07.000Z</updated>
         <summary type="html"><![CDATA[<p>作为一个学校里五年制毕业，工作四年有余，期间跳槽三次，至今蜗居上海的规划设计师一枚，深感对这个问题还有点发言权。想到当年自己就是因为缺少过来人的指导，多少走过一些弯路，甚为遗憾。写下此文，也算是对自己有个交代，总结反思一下自己的规划历程，也能对后来人有一些启发或是帮助，余愿足矣。</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[什么是城市规划的逻辑？]]></title>
-        <id>http://github.com/diaoshilong/diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/</id>
-        <link href="http://github.com/diaoshilong/diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/">
+        <id>http://diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/</id>
+        <link href="http://diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/">
         </link>
         <updated>2020-05-05T06:26:32.000Z</updated>
         <summary type="html"><![CDATA[<p>引言</p>
