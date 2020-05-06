@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://diaoshilong.github.io</id>
     <title>我的思维模型</title>
-    <updated>2020-05-06T00:52:54.346Z</updated>
+    <updated>2020-05-06T00:54:08.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://diaoshilong.github.io"/>
     <link rel="self" href="https://diaoshilong.github.io/atom.xml"/>
@@ -44,5 +44,12 @@
         <content type="html"><![CDATA[<p>引言</p>
 <p>每一个做规划的人都应该有这样的体会，不管是上学的时候，工作的时候，不管是设计方案的时候，还是解说方案的时候，总有人不断的在你耳边聒噪，&quot;逻辑！逻辑！重要的是规划逻辑&quot;。而如果你头一扭，一脸茫然的问他&quot;什么是逻辑？能不能给我讲讲？&quot;</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作者简介]]></title>
+        <id>https://diaoshilong.github.io/post/about/</id>
+        <link href="https://diaoshilong.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
 </feed>
