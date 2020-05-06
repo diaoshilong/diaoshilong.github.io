@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xpjrty.coding-pages.com</id>
+    <id>https://diaoshilong.github.io</id>
     <title>我的思维模型</title>
-    <updated>2020-05-06T00:37:36.268Z</updated>
+    <updated>2020-05-06T00:45:35.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xpjrty.coding-pages.com"/>
-    <link rel="self" href="https://xpjrty.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://diaoshilong.github.io"/>
+    <link rel="self" href="https://diaoshilong.github.io/atom.xml"/>
     <subtitle>风起于青萍之末，浪成于微澜之间。</subtitle>
-    <logo>https://xpjrty.coding-pages.com/images/avatar.png</logo>
-    <icon>https://xpjrty.coding-pages.com/favicon.ico</icon>
+    <logo>https://diaoshilong.github.io/images/avatar.png</logo>
+    <icon>https://diaoshilong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的思维模型</rights>
     <entry>
+        <title type="html"><![CDATA[从城市规划师转型产品汪，一个叛逆者的自白]]></title>
+        <id>https://diaoshilong.github.io/post/cong-cheng-shi-gui-hua-shi-zhuan-xing-chan-pin-wang-yi-ge-pan-ni-zhe-de-zi-bai/</id>
+        <link href="https://diaoshilong.github.io/post/cong-cheng-shi-gui-hua-shi-zhuan-xing-chan-pin-wang-yi-ge-pan-ni-zhe-de-zi-bai/">
+        </link>
+        <updated>2020-05-06T00:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天是一个值得庆祝的日子，终于确定下来正式的offer，入职一家互联网公司，基本达到先前的期望，即将开始一个城市规划师向产品经理的转型之旅。<br>
+**在城市规划5年大学教育，5年从业经历后，我终于背叛了城市规划，成了一个叛逆者。  **</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天是一个值得庆祝的日子，终于确定下来正式的offer，入职一家互联网公司，基本达到先前的期望，即将开始一个城市规划师向产品经理的转型之旅。<br>
+**在城市规划5年大学教育，5年从业经历后，我终于背叛了城市规划，成了一个叛逆者。  **</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[写给城市规划毕业生的建议]]></title>
-        <id>https://xpjrty.coding-pages.com/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/</id>
-        <link href="https://xpjrty.coding-pages.com/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/">
+        <id>https://diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/</id>
+        <link href="https://diaoshilong.github.io/post/xie-gei-cheng-shi-gui-hua-bi-ye-sheng-de-jian-yi/">
         </link>
         <updated>2020-05-05T07:47:07.000Z</updated>
         <summary type="html"><![CDATA[<p>作为一个学校里五年制毕业，工作四年有余，期间跳槽三次，至今蜗居上海的规划设计师一枚，深感对这个问题还有点发言权。想到当年自己就是因为缺少过来人的指导，多少走过一些弯路，甚为遗憾。写下此文，也算是对自己有个交代，总结反思一下自己的规划历程，也能对后来人有一些启发或是帮助，余愿足矣。</p>
@@ -23,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[什么是城市规划的逻辑？]]></title>
-        <id>https://xpjrty.coding-pages.com/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/</id>
-        <link href="https://xpjrty.coding-pages.com/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/">
+        <id>https://diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/</id>
+        <link href="https://diaoshilong.github.io/post/shi-me-shi-cheng-shi-gui-hua-de-luo-ji/">
         </link>
         <updated>2020-05-05T06:26:32.000Z</updated>
         <summary type="html"><![CDATA[<p>引言</p>
