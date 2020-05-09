@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xpjrty.coding-pages.com</id>
     <title>我的思维模型</title>
-    <updated>2020-05-09T15:41:10.870Z</updated>
+    <updated>2020-05-09T16:19:09.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xpjrty.coding-pages.com"/>
     <link rel="self" href="https://xpjrty.coding-pages.com/atom.xml"/>
@@ -10,35 +10,6 @@
     <logo>https://xpjrty.coding-pages.com/images/avatar.png</logo>
     <icon>https://xpjrty.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的思维模型</rights>
-    <entry>
-        <title type="html"><![CDATA[乔布斯：2007年iPhone发布会全程高清中文字幕]]></title>
-        <id>https://xpjrty.coding-pages.com/post/qiao-bu-si-2007-nian-iphone-fa-bu-hui-quan-cheng-gao-qing-zhong-wen-zi-mu/</id>
-        <link href="https://xpjrty.coding-pages.com/post/qiao-bu-si-2007-nian-iphone-fa-bu-hui-quan-cheng-gao-qing-zhong-wen-zi-mu/">
-        </link>
-        <updated>2020-05-09T15:11:10.000Z</updated>
-        <summary type="html"><![CDATA[<iframe  width="800"  height="400" 
-src="https://player.bilibili.com/player.html?aid=11261506&bvid=BV1Kx411Y7ay&cid=18625877&page=1" scrolling="no" border="
-frameborder="0"  allowfullscreen>  </iframe>
-]]></summary>
-        <content type="html"><![CDATA[<iframe  width="800"  height="400" 
-src="https://player.bilibili.com/player.html?aid=11261506&bvid=BV1Kx411Y7ay&cid=18625877&page=1" scrolling="no" border="
-frameborder="0"  allowfullscreen>  </iframe>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔布斯：遗失的访谈（1995）]]></title>
-        <id>https://xpjrty.coding-pages.com/post/qiao-bu-si-yi-shi-de-fang-tan-1995/</id>
-        <link href="https://xpjrty.coding-pages.com/post/qiao-bu-si-yi-shi-de-fang-tan-1995/">
-        </link>
-        <updated>2020-05-09T15:07:24.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔布斯：1990年WGBH访谈视频]]></title>
-        <id>https://xpjrty.coding-pages.com/post/qiao-bu-si-1990-nian-wgbh-fang-tan-shi-pin/</id>
-        <link href="https://xpjrty.coding-pages.com/post/qiao-bu-si-1990-nian-wgbh-fang-tan-shi-pin/">
-        </link>
-        <updated>2020-05-09T15:04:29.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[张小龙：关于微信的一切，每天有一亿人教我做产品]]></title>
         <id>https://xpjrty.coding-pages.com/post/zhang-xiao-long-shi-shang-zui-chang-yan-jiang-wan-zheng-ban-shi-pin-hui-ying-you-guan-wei-xin-de-yi-qie/</id>
@@ -51,21 +22,6 @@ frameborder="0"  allowfullscreen>  </iframe>
 ]]></summary>
         <content type="html"><![CDATA[<iframe  width="800"  height="400" 
 src="https://player.bilibili.com/player.html?aid=40454145&bvid=BV1Ct411p7jQ&cid=71049973&page=1"
-frameborder="0"  allowfullscreen>  </iframe>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知乎大V告诉你最好的学习方法——碎片知识的价值]]></title>
-        <id>https://xpjrty.coding-pages.com/post/zhi-hu-da-v-gao-su-ni-zui-hao-de-xue-xi-fang-fa-sui-pian-zhi-shi-de-jie-zhi/</id>
-        <link href="https://xpjrty.coding-pages.com/post/zhi-hu-da-v-gao-su-ni-zui-hao-de-xue-xi-fang-fa-sui-pian-zhi-shi-de-jie-zhi/">
-        </link>
-        <updated>2020-05-09T13:55:23.000Z</updated>
-        <summary type="html"><![CDATA[<iframe  width="800"  height="400" 
-src="https://vdept.bdstatic.com/74314e563568466a556e3636777a5671/746a43375a335933/704cb6a3d6999e88f4a501284ee9e54f6fae34d2c2c7c0b00cc5f9ba330394ffc865b8267b7d81c35d90b1e20831c74b.mp4?auth_key=1589039033-0-0-2dc88482c9b502cbc11a66d527bd3822"
-frameborder="0"  allowfullscreen>  </iframe>
-]]></summary>
-        <content type="html"><![CDATA[<iframe  width="800"  height="400" 
-src="https://vdept.bdstatic.com/74314e563568466a556e3636777a5671/746a43375a335933/704cb6a3d6999e88f4a501284ee9e54f6fae34d2c2c7c0b00cc5f9ba330394ffc865b8267b7d81c35d90b1e20831c74b.mp4?auth_key=1589039033-0-0-2dc88482c9b502cbc11a66d527bd3822"
 frameborder="0"  allowfullscreen>  </iframe>
 ]]></content>
     </entry>
@@ -127,5 +83,12 @@ frameborder="0"  allowfullscreen>  </iframe>
         <content type="html"><![CDATA[<p>引言</p>
 <p>每一个做规划的人都应该有这样的体会，不管是上学的时候，工作的时候，不管是设计方案的时候，还是解说方案的时候，总有人不断的在你耳边聒噪，&quot;逻辑！逻辑！重要的是规划逻辑&quot;。而如果你头一扭，一脸茫然的问他&quot;什么是逻辑？能不能给我讲讲？&quot;</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作者简介]]></title>
+        <id>https://xpjrty.coding-pages.com/post/about/</id>
+        <link href="https://xpjrty.coding-pages.com/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
 </feed>
